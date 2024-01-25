@@ -1,0 +1,7 @@
+C:\anita 9a\25.01.2024.;\25.01.2024.;\obj\Debug\25.01.2024.;.csproj.AssemblyReference.cache
+C:\anita 9a\25.01.2024.;\25.01.2024.;\obj\Debug\25.01.2024.;.csproj.CoreCompileInputs.cache
+C:\anita 9a\25.01.2024.;\25.01.2024.;\bin\Debug\25.01.2024.;.exe.config
+C:\anita 9a\25.01.2024.;\25.01.2024.;\bin\Debug\25.01.2024.;.exe
+C:\anita 9a\25.01.2024.;\25.01.2024.;\bin\Debug\25.01.2024.;.pdb
+C:\anita 9a\25.01.2024.;\25.01.2024.;\obj\Debug\25.01.2024.;.exe
+C:\anita 9a\25.01.2024.;\25.01.2024.;\obj\Debug\25.01.2024.;.pdb
